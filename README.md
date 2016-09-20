@@ -1,6 +1,8 @@
 # Project 0: Introduction and Fundamentals
 ## Titanic Survival Exploration
 
+This project creates decision functions that attempt to predict survival outcomes from the 1912 Titanic disaster based on each passenger’s features, such as sex and age.
+
 ### Install
 
 This project requires **Python 2.7** and the following Python libraries installed:
